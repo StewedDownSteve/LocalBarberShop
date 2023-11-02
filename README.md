@@ -1,7 +1,7 @@
 # LocalBarberShop
 A simple but responsive website for a small barber shop w/ contact form. Content/Info made generic.
 
-![Alt text](/relative/StevePortfolio-BarberShop/images/BarberShopImg.png?raw=true)
+![Alt text](/StevePortfolio-BarberShop/images/BarberShopImg.png?raw=true)
 
 Link to project: https://trimshavebarber.netlify.app
 
