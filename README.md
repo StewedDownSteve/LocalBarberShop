@@ -5,7 +5,7 @@ A simple but responsive website for a small barber shop w/ contact form. Content
 
 Link to project: https://trimshavebarber.netlify.app
 
-alt tag
+
 
 How It's Made:
 Tech used: HTML, CSS, JavaScript
